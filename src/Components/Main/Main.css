@@ -1,0 +1,48 @@
+/* band component styles here */
+.meditation{
+    background-color: rgba(250, 250, 250, 0.911);
+    border: 1px solid rgb(93, 231, 199);
+    border-radius: 1em;
+    margin: 1em;
+    padding: 1em;
+}
+.trainer-img img {
+    width: 100%;
+    height: 20em;
+    border-radius: 1em;
+}
+.trainer-details {
+    text-align: center;
+}
+.trainer-details h4,
+.trainer-details h5 {
+    font-size: 1.2em;
+    margin: 0.9em auto;
+    color: #000000;
+
+}
+.trainer-details p{
+    color: rgb(229, 255, 0);
+    font-size: 1em;
+    font-weight: 700;
+}
+.trainer-details span {
+    font-size: 1em;
+    font-weight: 700;
+    color: rgb(7, 215, 230);
+}
+.btn-info{
+    width: 10em;
+    height: 2.5em;
+    background: transparent;
+    color: #f0860d;
+    font-weight: 600;
+    border: 1px solid #0DCAF0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-info:hover{
+    background-color: #0DCAF0;
+    color: #e27474;
+}
